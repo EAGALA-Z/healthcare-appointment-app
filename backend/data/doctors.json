@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Ayesha Khan",
+    "specialization": "Cardiologist",
+    "imageUrl": "https://randomuser.me/api/portraits/men/20.jpg",
+    "experience": 15,
+    "rating": 4.8,
+    "available": true
+  },
+  {
+    "id": "2",
+    "name": "Dr. Ravi Kumar",
+    "specialization": "Dermatologist",
+    "imageUrl": "https://randomuser.me/api/portraits/men/30.jpg",
+    "experience": 12,
+    "rating": 4.5,
+    "available": false
+  },
+  {
+    "id": "3",
+    "name": "Dr. Neha Mehra",
+    "specialization": "Pediatrician",
+    "imageUrl": "https://randomuser.me/api/portraits/women/56.jpg",
+    "experience": 10,
+    "rating": 4.7,
+    "available": true
+  },
+  {
+    "id": "4",
+    "name": "Dr. Karan Patel",
+    "specialization": "Dentist",
+    "imageUrl": "https://randomuser.me/api/portraits/men/34.jpg",
+    "experience": 8,
+    "rating": 4.3,
+    "available": true
+  },
+  {
+    "id": "5",
+    "name": "Dr. Ritu Sharma",
+    "specialization": "Psychist",
+    "imageUrl": "https://randomuser.me/api/portraits/women/30.jpg",
+    "experience": 11,
+    "rating": 4.2,
+    "available": false
+  },
+  {
+    "id": "6",
+    "name": "Dr. Faizan Sheikh",
+    "specialization": "Pulmonologist",
+    "imageUrl": "https://randomuser.me/api/portraits/men/39.jpg",
+    "experience": 14,
+    "rating": 4.9,
+    "available": true
+  },
+  {
+    "id": "7",
+    "name": "Dr. Sneha Reddy",
+    "specialization": "Anesthesiologist",
+    "imageUrl": "https://randomuser.me/api/portraits/women/41.jpg",
+    "experience": 13,
+    "rating": 4.0,
+    "available": false
+  },
+  {
+    "id": "8",
+    "name": "Dr. Mohan Das",
+    "specialization": "Neurologist",
+    "imageUrl": "https://randomuser.me/api/portraits/men/47.jpg",
+    "experience": 22,
+    "rating": 4.6,
+    "available": true
+  },
+  {
+    "id": "9",
+    "name": "Dr. Pooja Iyer",
+    "specialization": "Ophthalmologist",
+    "imageUrl": "https://randomuser.me/api/portraits/women/39.jpg",
+    "experience": 6,
+    "rating": 4.4,
+    "available": true
+  },
+  {
+    "id": "10",
+    "name": "Dr. Arvind Narayan",
+    "specialization": "Urologist",
+    "imageUrl": "https://randomuser.me/api/portraits/men/29.jpg",
+    "experience": 9,
+    "rating": 4.1,
+    "available": false
+  },
+  {
+    "id": "11",
+    "name": "Dr. Megha Deshmukh",
+    "specialization": "General practitioner",
+    "imageUrl": "https://randomuser.me/api/portraits/women/28.jpg",
+    "experience": 5,
+    "rating": 3.9,
+    "available": true
+  },
+  {
+    "id": "12",
+    "name": "Dr. Sandeep Joshi",
+    "specialization": "Rheumatologist",
+    "imageUrl": "https://randomuser.me/api/portraits/men/25.jpg",
+    "experience": 20,
+    "rating": 4.7,
+    "available": true
+  },
+  {
+    "id": "13",
+    "name": "Dr. Rina Kapoor",
+    "specialization": "Cardiologist",
+    "imageUrl": "https://randomuser.me/api/portraits/women/22.jpg",
+    "experience": 16,
+    "rating": 4.2,
+    "available": false
+  },
+  {
+    "id": "14",
+    "name": "Dr. Amitabh Verma",
+    "specialization": "Dentist",
+    "imageUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+    "experience": 18,
+    "rating": 4.5,
+    "available": true
+  },
+  {
+    "id": "15",
+    "name": "Dr. Isha Naik",
+    "specialization": "Pediatrician",
+    "imageUrl": "https://randomuser.me/api/portraits/women/18.jpg",
+    "experience": 7,
+    "rating": 4.6,
+    "available": true
+  },
+  {
+    "id": "16",
+    "name": "Dr. Prakash Yadav",
+    "specialization": "Psychist",
+    "imageUrl": "https://randomuser.me/api/portraits/men/31.jpg",
+    "experience": 11,
+    "rating": 3.8,
+    "available": false
+  },
+  {
+    "id": "17",
+    "name": "Dr. Vandana Rao",
+    "specialization": "Pulmonologist",
+    "imageUrl": "https://randomuser.me/api/portraits/women/27.jpg",
+    "experience": 12,
+    "rating": 4.9,
+    "available": true
+  },
+  {
+    "id": "18",
+    "name": "Dr. Jay Mehta",
+    "specialization": "Neurologist",
+    "imageUrl": "https://randomuser.me/api/portraits/men/18.jpg",
+    "experience": 21,
+    "rating": 4.6,
+    "available": true
+  },
+  {
+    "id": "19",
+    "name": "Dr. Kavita Singh",
+    "specialization": "Anesthesiologist",
+    "imageUrl": "https://randomuser.me/api/portraits/women/20.jpg",
+    "experience": 8,
+    "rating": 4.3,
+    "available": false
+  },
+  {
+    "id": "20",
+    "name": "Dr. Rakesh Kaul",
+    "specialization": "Ophthalmologist",
+    "imageUrl": "https://randomuser.me/api/portraits/men/22.jpg",
+    "experience": 10,
+    "rating": 4.4,
+    "available": true
+  }
+]
