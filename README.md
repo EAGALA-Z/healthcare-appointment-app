@@ -1,9 +1,3 @@
-## 🔗 Live Preview
-
-> 🌐 Local: [http://localhost:3000](http://localhost:3000)  
-
----
-
 # HealthCare+ - Online Appointment Booking App
 
 HealthCare+ is a full-stack web application designed to make it easier for patients to book appointments with doctors online. The app allows users to browse doctors, view profiles, and book appointments seamlessly from the comfort of their homes.
