@@ -67,15 +67,6 @@ Health-appointment-app/
 
 ---
 
-## 📸 Screenshots
-
-> Add your screenshots in a `screenshots/` folder
-
-| Homepage               | Doctor Profile            | Appointment Form        |
-|------------------------|---------------------------|--------------------------|
-| ![](screenshots/home.png) | ![](screenshots/profile.png) | ![](screenshots/appointment.png) |
-
----
 
 ## ⚙️ Getting Started
 
@@ -107,7 +98,7 @@ backend:
     steps:
       - cd backend
       - npm install
-      - npm run dev
+      - npm server.js
     runs_on: http://localhost:5000
   dependencies:
     - express
